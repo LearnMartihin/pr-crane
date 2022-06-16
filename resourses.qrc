@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/minus-symbol_icon-icons.com_73485.png</file>
+        <file>img/plus_icon-icons.com_70890.png</file>
+        <file>img/lan_check_icon_137457.png</file>
+        <file>img/lan_disconnect_icon_138437.png</file>
+        <file>img/exit_icon-icons.com_70975.png</file>
+        <file>img/save_78935.png</file>
+        <file>img/353430-checkbox-edit-pen-pencil_107516.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>kurs_en_US.qm</file>
+        <file>kurs_ru_RU.qm</file>
+        <file>kurs_it_IT.qm</file>
+    </qresource>
+</RCC>
